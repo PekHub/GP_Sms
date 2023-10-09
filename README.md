@@ -1,5 +1,5 @@
 # GP_Sms
-โปรแกรมฟลัดsms
+โปรแกรมฟลัดSMS
 
 # Followers Me
 Discord : https://discord.gg/RC4KEDakbd
